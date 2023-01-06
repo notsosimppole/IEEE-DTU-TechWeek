@@ -29,7 +29,7 @@ const Footer = () => {
                     <p className='text-[#fff] text-lg font-bold py-2'>
                         Contact Us
                     </p>
-                    <div className='flex items-center justify-start'>
+                    {/* <div className='flex items-center justify-start'>
                         <div className='bg-[#7f7f7f] px-1 pt-1 rounded-lg'>
                             <Image src='/images/call.svg' alt='phone' width={30} height={30} />
                         </div>
@@ -41,7 +41,7 @@ const Footer = () => {
                                 <a href='https://wa.me/918178248936?text=' target='_blank' rel='noreferrer' className='hover:text-[#08D4F8]'>+91 81782 48936</a>
                             </p>
                         </div>
-                    </div>
+                    </div> */}
                     <div className='flex items-center justify-start'>
                         <div className='bg-[#7f7f7f] px-1 pt-1 rounded-lg'>
                             <Image src='/images/call.svg' alt='phone' width={30} height={30} />
@@ -95,7 +95,7 @@ const Footer = () => {
                 <hr />
                 <div className='flex justify-between items-center mx-10 text-sm pt-8    '>
                     <p >
-                        © 2021 TechWeek by IEEE-DTU
+                        © 2023 TechWeek by IEEE-DTU
                     </p>
                     <div className='flex items-center justify-center'>
                         <a href='https://www.facebook.com/ieeedtu/' target='_blank' rel='noreferrer'>
