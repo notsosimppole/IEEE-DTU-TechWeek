@@ -15,14 +15,14 @@ const Landing = () => {
                     TechWeek by IEEE DTU is the annual workshop event for aspiring engineers to get a glimpse into the latest and upcoming technologies. Join us and become a tech trailblazer!
                 </p>
             </div>
-            <div className='w-full flex justify-center items-center my-2'>
+            <div className='w-full flex justify-center items-center my-2 mb-6 md:mb-0'>
                 <button className='bg-[#08D4F8] text-[#1B1B1B] font-bold font-prompt text-xl px-4 w-10/12 rounded-lg py-3 transform transition duration-500 hover:scale-110 hover:bg-transparent border-2 border-[#08D4F8] hover:text-[#08D4F8]'>
                     <a href='https://docs.google.com/forms/d/e/1FAIpQLSc3PRgsD2bBC72xDCnD9lzPVuipmmGyx2F23VEoqOlxq8Q2Ig/viewform' target='_blank' rel='noreferrer'>Register Now →</a>
                 </button>
 
             </div>
         </div>
-        <div className='flex w-full md:w-1/2 justify-center items-center -z-1 mt-24 md:mt-0'>
+        <div className='flex w-full md:w-1/2 justify-center items-center -z-1 mt-24 md:mt-0 mb-20 md:mb-0'>
             <Image src='/images/landing.svg' alt='landing' width={500} height={500} />
         </div>
     </div>
