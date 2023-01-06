@@ -73,7 +73,7 @@ const Footer = () => {
                     <p className='text-[#fff] text-lg font-bold py-2'>
                         Delhi Technological University
                     </p>
-                    <div className='flex items-center justify-start'>
+                    <div className='flex flex-col md:flex-row items-center justify-start'>
                         <a href='https://goo.gl/maps/otEPWNLtnYi928Sz6' target='_blank' rel='noreferrer'>
                             <Image src='/images/map.svg' alt='location' width={50} height={50} />
                         </a>
