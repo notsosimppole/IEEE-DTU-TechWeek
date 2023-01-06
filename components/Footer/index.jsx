@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='mx-4 bg-[#1B1B1B] text-[#fbf7f7] flex flex-col flex-nowrap items-center justify-center' id='footer'>
         <div className='bg-[#414141] rounded-lg w-full gap-2 h-full'>
-            <div className='grid  grid-cols-2 md:grid-cols-4 content-center'>
+            <div className='grid grid-cols-2 md:grid-cols-4 content-center'>
                 <div className='flex flex-col items-center justify-center flex-nowrap'>
                     <Image src='/images/logo.png' alt='logo' width={100} height={100} />
                     <p className='text-[#BECACA] mx-4 text-md'>

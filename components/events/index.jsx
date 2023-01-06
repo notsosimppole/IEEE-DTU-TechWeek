@@ -10,7 +10,7 @@ const Events = () => {
             </div>
             <div className='flex flex-col w-full md:w-2/5 mx-auto justify-center items-center md:items-start'>
                 <h2>
-                    <span className='text-5xl font-bold bg-gradient-to-tl from-[#3376BD] to-[#08D4F8] inline-block text-transparent bg-clip-text font-prompt'>About TechWeek</span>
+                    <span className='text-4xl md:text-5xl font-bold bg-gradient-to-tl from-[#3376BD] to-[#08D4F8] inline-block text-transparent bg-clip-text font-prompt'>About TechWeek</span>
                 </h2>
                 <div className='h-2 w-10 bg-gradient-to-tl from-[#3376BD] to-[#08D4F8] rounded-full my-5'>
                 </div>

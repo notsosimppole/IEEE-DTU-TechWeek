@@ -10,10 +10,10 @@ const EventCard = (props) => {
         backgroundPosition: 'center'
       }}
     >
-      <h2 className='w-full md:text-9xl text-5xl py-5 text-center font-extrabold font-spaceMono text-black mix-blend-lighten bg-[#ffffff]'>
+      <h2 className='w-full md:text-9xl text-4xl py-5 text-center font-extrabold font-spaceMono text-black mix-blend-lighten bg-[#ffffff]'>
         {props.title}
       </h2>
-      <h3 className='text-center font-semibold font-prompt w-full md:text-5xl text-2xl text-black mix-blend-lighten bg-[#ffffff]'>
+      <h3 className='text-center font-semibold font-prompt w-full md:text-5xl text-xl text-black mix-blend-lighten bg-[#ffffff]'>
         {props.date}
       </h3>
     </div>
