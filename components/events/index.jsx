@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Image from 'next/image'
 import React from 'react'
 
@@ -15,7 +16,7 @@ const Events = () => {
                 <div className='h-2 w-10 bg-gradient-to-tl from-[#3376BD] to-[#08D4F8] rounded-full my-5'>
                 </div>
                 <p className='text-[#BECACA] pt-1 text-xl  px-10 md:px-0 py-10 md:py-0'>
-                    TECHWEEK is the annual workshop galore organised by IEEE DTU which offers budding engineers an insight into the various new and upcoming technologies. Workshops organized during TECHWEEK introduce technologies to students and intent to stimulate their interest in cutting edge technologies of today.
+                    TECHWEEK is the annual workshop galore organised by IEEE DTU which offers budding engineers an insight into the various new and upcoming technologies. Workshops organized during TECHWEEK introduce technologies to students and intent to stimulate their interest in cutting edge technologies of today. <br />
                     TECHWEEK is a true knowledge fair for all those who have in them a craving to learn, with workshops ranging from web-designing to robotics, from programming to Graphic designing.
                     You don't need to be an IEEE DTU member to attend. Free for all!
                 </p>
