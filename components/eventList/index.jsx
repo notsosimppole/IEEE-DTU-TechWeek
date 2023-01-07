@@ -39,7 +39,7 @@ const EventList = () => {
                 <EventCard title="Data Structures and Algorithms" img="/images/dsa.png" date="19 Jan 2023" link = "https://chat.whatsapp.com/K9LHNQOs0gpEElsJSOle3J" />
             </div>
             <div className='h-screen w-full snap-start'>
-                <EventCard title="Design" img="/images/design.png" date="20 Jan 2023" link = "https://chat.whatsapp.com/DbS6MAch2Z7Gssqz8bZXhj" />
+                <EventCard title="Graphic Design" img="/images/design.png" date="20 Jan 2023" link = "https://chat.whatsapp.com/DbS6MAch2Z7Gssqz8bZXhj" />
             </div>
             <div className='h-screen w-full snap-start'>
                 <EventCard title="Robotics" img="/images/robotics.png" date="20 Jan 2023" link = "https://chat.whatsapp.com/GwP7rLrVFcq2TyECLzw8qE" />
