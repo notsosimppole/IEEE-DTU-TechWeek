@@ -20,7 +20,7 @@ const Events = () => {
                     TECHWEEK is a true knowledge fair for all those who have in them a craving to learn, with workshops ranging from web-designing to robotics, from programming to Graphic designing.
                     </p>
                 <p className='text-[#BECACA] pt-1 text-xl  px-10 md:px-0 md:py-0'>
-                    You don't need to be an IEEE DTU member to attend. Free for all!
+                    You don&apos;t need to be an IEEE DTU member to attend. Free for all!
                 </p>
             </div>
         </div>

@@ -7,7 +7,7 @@ const Landing = () => {
     <div className='md:h-screen w-screen md:w-auto flex flex-col-reverse md:flex-row items-center justify-center bg-[#1B1B1B] text-[#fbf7f7] font-inter'>
         <div className='flex flex-col items-center md:items-start justify-center w-screen md:w-2/5 md:mx-auto gap-2 md:px-12'>
             <div className='flex flex-col'>
-                <h1 className='text-6xl font-bold bg-gradient-to-tl from-[#3376BD] to-[#08D4F8] inline-block text-transparent bg-clip-text font-prompt'>TechWeek'23</h1>
+                <h1 className='text-6xl font-bold bg-gradient-to-tl from-[#3376BD] to-[#08D4F8] inline-block text-transparent bg-clip-text font-prompt'>TechWeek &apos;23</h1>
                 <h2 className='text-4xl font-bold font-prompt px-4'>By IEEE-DTU</h2>
             </div>
             <div className='flex flex-col items-center md:items-start px-4 justify-center mt-2'>

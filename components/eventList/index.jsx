@@ -12,7 +12,7 @@ const EventList = () => {
             <div className='h-2 w-10 bg-gradient-to-tl from-[#3376BD] to-[#08D4F8] rounded-full mt-2 mb-5'>
             </div>
             <p className='text-xl px-8 md:px-0'>
-                With a wide range of workshops from web design to robotics, programming to electronics, there's something for everyone with a passion for technology.
+                With a wide range of workshops from web design to robotics, programming to electronics, there&apos;s something for everyone with a passion for technology.
             </p>
         </div>
 
