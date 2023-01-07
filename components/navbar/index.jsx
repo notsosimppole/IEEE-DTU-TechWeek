@@ -15,7 +15,7 @@ const Navbar = () => {
             <a href='#events' className='text-[#BECACA] text-lg font-bold py-2 hover:text-[#08D4F8]'>
                 Events
             </a>
-            <a href='#footer' className='text-lg font-bold py-2 text-[#08D4F8] border-2 border-[#08D4F8] transition transform hover:scale-110 hover:bg-[#08D4F8] hover:text-[#1B1B1B] duration-150 px-2 md:px-5 my-5 md:my-0'>
+            <a href='#footer' className='text-lg font-bold py-2 text-[#08D4F8] border-2 border-[#08D4F8] transition transform hover:scale-110 hover:bg-[#08D4F8] hover:text-[#1B1B1B] duration-150 px-2 md:px-5 my-5 md:my-0 rounded-lg'>
                 Contact Us
             </a>
         </div>
