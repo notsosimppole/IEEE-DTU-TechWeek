@@ -4,6 +4,7 @@ import Events from '../components/events'
 import Footer from '../components/Footer'
 import Landing from '../components/landing'
 import Navbar from '../components/navbar'
+import Sponsers from '../components/sponsers'
 
 import styles from '../styles/Home.module.css'
 
@@ -19,6 +20,7 @@ export default function Home() {
       <Landing />
       <Events />
       <EventList />
+      <Sponsers />
       <Footer />
     </div>
   )

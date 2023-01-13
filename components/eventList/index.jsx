@@ -5,13 +5,13 @@ import EventCard from './EventCard'
 const EventList = () => {
   return (
     <div className='text-white w-full' id='events'>
-        <div className='flex flex-col items-center py-10'>
+        <div className='flex flex-col items-center pt-10'>
             <h2 className='text-5xl font-bold bg-gradient-to-tl from-[#3376BD] to-[#08D4F8] inline-block text-transparent bg-clip-text font-prompt'>
                 Events
             </h2>
             <div className='h-2 w-10 bg-gradient-to-tl from-[#3376BD] to-[#08D4F8] rounded-full mt-2 mb-5'>
             </div>
-            <p className='text-xl px-8 md:px-0'>
+            <p className='text-xl px-8 pb-8 md:px-0'>
                 With a wide range of workshops from web design to robotics, programming to electronics, there&apos;s something for everyone with a passion for technology.
             </p>
         </div>

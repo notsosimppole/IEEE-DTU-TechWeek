@@ -11,7 +11,7 @@ const EventCard = (props) => {
       }}
     >
       <div className='flex flex-col'>
-        <h2 className='w-full md:text-8xl text-4xl py-5 text-center font-extrabold font-spaceMono text-black mix-blend-lighten bg-[#ffffff]'>
+        <h2 className='w-full md:text-8xl text-4xl py-5 text-center font-extrabold font-spaceMono text-black mix-blend-lighten bg-[#ffffff] rounded-t-lg'>
           {props.title}
         </h2>
         <h3 className='text-center font-semibold font-prompt w-full md:text-5xl text-xl text-black mix-blend-lighten bg-[#ffffff]'>
