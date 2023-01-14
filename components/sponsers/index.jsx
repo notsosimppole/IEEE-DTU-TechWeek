@@ -13,7 +13,9 @@ const Sponsers = () => {
                 </div>
                 <div className='flex flex-col items-center justify-center w-full mx-4 gap-2 h-full'>
                     <div className='flex items-center justify-center w-full mx-4 gap-12 h-full'>
-                        <Image src='/images/digitalocean.png' alt='landing' width={200} height={200} />
+                        <a href="https://www.digitalocean.com/" target="_blank" rel='noreferrer'>
+                            <Image src='/images/digitalocean.png' alt='landing' width={200} height={200} />
+                        </a>
                         {/* <Image src='/images/digitalocean.png' alt='landing' width={200} height={200} />
                         <Image src='/images/digitalocean.png' alt='landing' width={200} height={200} /> */}
                     </div>
